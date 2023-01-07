@@ -1,0 +1,3 @@
+packages:
+  -  "qwik-frontend"
+  -  "axum-backend"
